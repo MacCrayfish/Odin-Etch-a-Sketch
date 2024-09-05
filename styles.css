@@ -1,0 +1,13 @@
+#grid {
+    display: flex;
+    height: 960px;
+    width: 960px;
+}
+
+.column {
+    flex:1;
+}
+
+.gridSquare {
+    flex: 1;
+}
